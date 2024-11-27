@@ -3,17 +3,16 @@
 
 
 ## 📋 Table of The Methods 
-- [About](https://github.com/23lollo/Pc-Optimizer#%EF%B8%8F-about)
-- [Prerequisites](https://github.com/23lollo/Pc-Optimizer#-prerequisites)
-- [Terabyte Tweaker](https://github.com/23lollo/Pc-Optimizer#terabyte-tweaker)
-- [ztweaks](https://github.com/23lollo/Pc-Optimizer#ztweaks--zenoxtweaks)
-- [Optimizer](https://github.com/23lollo/Pc-Optimizer#optimizer)
-- [TimerResoluton](https://github.com/23lollo/Pc-Optimizer#timerresoluton)
-- [TCP Optimizer](https://github.com/23lollo/Pc-Optimizer#tcp-optimizer)
-- [DnsJumper](https://github.com/23lollo/Pc-Optimizer#dns-jumper)
-- [Quick CPU](https://github.com/23lollo/Pc-Optimizer#quick-cpu)
-- [Memreduct](https://github.com/23lollo/Pc-Optimizer#mem-reduct)
-- [Limit Reservable Bandwidth](https://github.com/23lollo/Pc-Optimizer#limit-reservable-bandwidth)
+- [About](https://github.com/ThomasPaulCJ/Windows-Tweaks-for-Extreme-Perfomance?tab=readme-ov-file#%E2%84%B9%EF%B8%8F-about)
+- [Prerequisites](https://github.com/ThomasPaulCJ/Windows-Tweaks-for-Extreme-Perfomance?tab=readme-ov-file#-prerequisites)
+- [Terabyte Tweaker](https://github.com/ThomasPaulCJ/Windows-Tweaks-for-Extreme-Perfomance?tab=readme-ov-file#-prerequisites)
+- [Optimizer](https://github.com/ThomasPaulCJ/Windows-Tweaks-for-Extreme-Perfomance?tab=readme-ov-file#-prerequisites)
+- [TimerResoluton](https://github.com/ThomasPaulCJ/Windows-Tweaks-for-Extreme-Perfomance?tab=readme-ov-file#-prerequisites)
+- [TCP Optimizer](https://github.com/ThomasPaulCJ/Windows-Tweaks-for-Extreme-Perfomance?tab=readme-ov-file#-prerequisites)
+- [DnsJumper](https://github.com/ThomasPaulCJ/Windows-Tweaks-for-Extreme-Perfomance?tab=readme-ov-file#-prerequisites)
+- [Quick CPU](https://github.com/ThomasPaulCJ/Windows-Tweaks-for-Extreme-Perfomance?tab=readme-ov-file#-prerequisites)
+- [Memreduct](https://github.com/ThomasPaulCJ/Windows-Tweaks-for-Extreme-Perfomance?tab=readme-ov-file#-prerequisites)
+- [Limit Reservable Bandwidth](https://github.com/ThomasPaulCJ/Windows-Tweaks-for-Extreme-Perfomance?tab=readme-ov-file#-prerequisites)
 
 
 
@@ -188,24 +187,6 @@ It has the ability to perform a Windows Restore Point with a single click.
 6.Under Options, set the bandwidth limit(%) to a lower value.
 
 7.Click Apply and Exit the editor.
-
-## 🔗 Credits
-
-- [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker)
-
-- [ztweaks](https://github.com/caxzy/ztweaks#tweaking-utilities)
-
-- [Optimizer](https://github.com/hellzerg/optimizer/releases/tag/14.8)
-
-- [TimerResolution](https://timerresolution.com/#download-timer-resolution)
-
-- [TCP Optimizer](https://www.speedguide.net/downloads.php)
-
-- [DnsJumper](https://www.sordum.org/7952/dns-jumper-v2-2/)
-
-- [Quick CPU](https://coderbag.com/product/quickcpu)
-
-- [Memreduct](https://github.com/henrypp/memreduct/releases/tag/v.3.4)
 
 
 
