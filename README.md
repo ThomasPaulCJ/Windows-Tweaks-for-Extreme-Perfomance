@@ -36,7 +36,9 @@ Double-click the .reg files to apply them.
 📜 Scripts:
 
 Run .bat or .ps1 scripts as Administrator.
-⚡ Power Plans: powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+⚡ Power Plans: 
+    ```bash
+      powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 Import the provided power plans via Control Panel → Power Options.
 ⚠️ Important Notes
@@ -50,7 +52,7 @@ Optimizing Windows isn’t just about raw speed—it’s about creating a system
 Reduce system overhead.
 Prioritize performance-critical tasks.
 Eliminate bloat and unnecessary processes.
-🤝 Contributing
+##🤝 Contributing
 We’d love your input!
 
 Fork the repo.
@@ -58,10 +60,10 @@ Implement your tweaks or suggest improvements.
 Submit a pull request to share your changes.
 Got ideas? Open an issue, and let’s discuss!
 
-📜 License
+##📜 License
 This project is open-source and licensed under the MIT License.
 Feel free to use, modify, and distribute with attribution.
 
-🌐 Connect
+##🌐 Connect
 Have questions, feedback, or just want to say hi?
 Feel free to open an issue or reach out directly!
