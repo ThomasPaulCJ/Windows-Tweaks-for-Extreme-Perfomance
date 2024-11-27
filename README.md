@@ -38,6 +38,7 @@ Double-click the .reg files to apply them.
 Run .bat or .ps1 scripts as Administrator.
 ⚡ Power Plans: 
     ```bash
+    
       powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 Import the provided power plans via Control Panel → Power Options.
