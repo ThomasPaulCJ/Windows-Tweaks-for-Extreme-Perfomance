@@ -18,7 +18,7 @@
 
 
 
-## ⚠️ About
+## About
 I've created this repo for boost your fps/ping/input lag for free on the games and for your pc
 
 Before you start changing anything make sure you create a restore point if you want I added a shortcut to open it, in the folder.
@@ -40,14 +40,7 @@ See the guide in [Terabyte Tweaker](https://github.com/Teramanbr/TerabyteTweaker
 Whith this tool you can do Debloating (Remove unnecessary features).
 
 
-## ZTweaks | ZenoxTweaks
-
-
-This is the interface
-
-![216380546-7f6e68b1-0ff4-48d5-aae8-a280fc3d25e3](https://user-images.githubusercontent.com/76433243/218325994-1d16f2af-8869-4db4-8852-a3fb8bfa7ea0.png)
-
-What features has [ZTweaks](https://github.com/caxzy/ztweaks):
+## Features :
 
 Removing debloat apps from Microsoft Store.
 
